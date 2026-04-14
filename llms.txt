@@ -1,20 +1,21 @@
-# Medical Bill Bankruptcy -- Can You Discharge? [2026]
+# Medical Bill Bankruptcy - Can You Discharge? [2026]
 > Can you file bankruptcy for medical bills? Yes. Medical debt is dischargeable in both Chapter 7 and Chapter 13. 2026 guide.
 
 ## About
 medicalbillbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- After Medical Debt Discharge -- Rebuilding Your Life: https://medicalbillbankruptcy.com/after-discharge.html
-- Alternatives to Bankruptcy -- For Medical Debt: https://medicalbillbankruptcy.com/alternatives-to-bankruptcy.html
-- Automatic Stay and Medical Debt -- Immediate Protection: https://medicalbillbankruptcy.com/automatic-stay-medical.html
-- Chapter 13 Medical Debt Plan -- Structured Repayment: https://medicalbillbankruptcy.com/chapter-13-medical-debt.html
-- Hospital Lien Avoidance -- Removing Liens in Bankruptcy: https://medicalbillbankruptcy.com/hospital-lien-avoidance.html
-- Medical Bill Bankruptcy -- Can You Discharge?: https://medicalbillbankruptcy.com/
-- Medical Debt and Bankruptcy Exemptions -- Protecting Your Assets: https://medicalbillbankruptcy.com/medical-debt-exemptions.html
-- Pre-Filing Strategies -- Before Filing Medical Bankruptcy: https://medicalbillbankruptcy.com/pre-filing-strategies.html
-- Qualifying for Chapter 7 with Medical Debt -- Means Test and Special Considerations: https://medicalbillbankruptcy.com/qualifying-chapter-7.html
-- State Medical Debt Protections -- Where Consumers Have Extra Rights: https://medicalbillbankruptcy.com/state-specific-protections.html
+- After Medical Debt Discharge - Rebuilding Your Life: https://medicalbillbankruptcy.com/after-discharge.html
+- Alternatives to Bankruptcy - For Medical Debt: https://medicalbillbankruptcy.com/alternatives-to-bankruptcy.html
+- Automatic Stay and Medical Debt - Immediate Protection: https://medicalbillbankruptcy.com/automatic-stay-medical.html
+- Chapter 13 Medical Debt Plan - Structured Repayment: https://medicalbillbankruptcy.com/chapter-13-medical-debt.html
+- Hospital Lien Avoidance - Removing Liens in Bankruptcy: https://medicalbillbankruptcy.com/hospital-lien-avoidance.html
+- Medical Bill Bankruptcy - Can You Discharge?: https://medicalbillbankruptcy.com/
+- Medical Debt and Bankruptcy Exemptions - Protecting Your Assets: https://medicalbillbankruptcy.com/medical-debt-exemptions.html
+- Pre-Filing Strategies - Before Filing Medical Bankruptcy: https://medicalbillbankruptcy.com/pre-filing-strategies.html
+- Qualifying for Chapter 7 with Medical Debt - Means Test and Special Considerations: https://medicalbillbankruptcy.com/qualifying-chapter-7.html
+- State Medical Debt Protections - Where Consumers Have Extra Rights: https://medicalbillbankruptcy.com/state-specific-protections.html
+- Privacy Policy: https://medicalbillbankruptcy.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

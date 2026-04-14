@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## After Medical Debt Discharge -- Rebuilding Your Life
+## After Medical Debt Discharge - Rebuilding Your Life
 Source: https://medicalbillbankruptcy.com/after-discharge.html
 
 After Medical Debt Discharge
@@ -136,7 +136,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Alternatives to Bankruptcy -- For Medical Debt
+## Alternatives to Bankruptcy - For Medical Debt
 Source: https://medicalbillbankruptcy.com/alternatives-to-bankruptcy.html
 
 Alternatives to Bankruptcy
@@ -266,7 +266,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Automatic Stay and Medical Debt -- Immediate Protection
+## Automatic Stay and Medical Debt - Immediate Protection
 Source: https://medicalbillbankruptcy.com/automatic-stay-medical.html
 
 Automatic Stay and Medical Debt
@@ -277,7 +277,7 @@ Home » Automatic Stay and Medical Debt
 
 Immediate Protection
 
-The automatic stay under 11 U.S.C. 362 immediately stops: collection calls, pending lawsuits, wage garnishment, and bank levies. Automatic -- no court order needed.
+The automatic stay under 11 U.S.C. 362 immediately stops: collection calls, pending lawsuits, wage garnishment, and bank levies. Automatic - no court order needed.
 
 Stopping Lawsuits
 
@@ -392,7 +392,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Chapter 13 Medical Debt Plan -- Structured Repayment
+## Chapter 13 Medical Debt Plan - Structured Repayment
 Source: https://medicalbillbankruptcy.com/chapter-13-medical-debt.html
 
 Chapter 13 Medical Debt Plan
@@ -407,7 +407,7 @@ When you do not qualify for Chapter 7, have assets to protect, are behind on mor
 
 How Much You Pay
 
-Medical bills are lumped with other unsecured debts and receive whatever percentage your plan pays -- as low as 0%. At completion, any unpaid balance is discharged.
+Medical bills are lumped with other unsecured debts and receive whatever percentage your plan pays - as low as 0%. At completion, any unpaid balance is discharged.
 
 Ongoing Medical Expenses
 
@@ -518,7 +518,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Hospital Lien Avoidance -- Removing Liens in Bankruptcy
+## Hospital Lien Avoidance - Removing Liens in Bankruptcy
 Source: https://medicalbillbankruptcy.com/hospital-lien-avoidance.html
 
 Hospital Lien Avoidance
@@ -644,8 +644,10 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Medical Bill Bankruptcy -- Can You Discharge? [2026]
+## Medical Bill Bankruptcy - Can You Discharge? [2026]
 Source: https://medicalbillbankruptcy.com/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
@@ -655,7 +657,7 @@ How to Discharge Medical Debt and Start Over
 
 Medical Debt Is Different from Other Debt
 
-You did not choose to get sick. Unlike credit card debt or car loans, medical debt is almost always involuntary. The bankruptcy system recognizes this -- medical bills receive no special protection and are among the easiest debts to discharge.
+You did not choose to get sick. Unlike credit card debt or car loans, medical debt is almost always involuntary. The bankruptcy system recognizes this - medical bills receive no special protection and are among the easiest debts to discharge.
 
 Medical debt is classified as general unsecured, non-priority debt under the Bankruptcy Code. This means it is discharged completely in Chapter 7 and receives the lowest repayment priority in Chapter 13. If you can only afford to repay some creditors, medical bills are typically paid last (or not at all).
 
@@ -665,7 +667,7 @@ Chapter 7 bankruptcy eliminates medical debt entirely. The typical timeline from
 
 What happens to your medical bills: All medical debt is wiped out. The hospital, doctor, or collection agency is permanently barred from collecting. The debt shows as "discharged" on your credit report.
 
-What you keep: In most Chapter 7 cases, you keep everything -- home, car, retirement accounts, household goods. State and federal exemptions protect these assets. Over 95% of Chapter 7 cases are "no-asset" cases where the filer loses nothing.
+What you keep: In most Chapter 7 cases, you keep everything - home, car, retirement accounts, household goods. State and federal exemptions protect these assets. Over 95% of Chapter 7 cases are "no-asset" cases where the filer loses nothing.
 
 Cost: Court filing fee is $338. Attorney fees typically run $1,000-$2,500. Full cost breakdown.
 
@@ -673,7 +675,7 @@ Chapter 13: The Repayment Plan
 
 Chapter 13 is a 3-5 year repayment plan. It makes sense when you have assets above exemption limits, are behind on a mortgage, or earn too much to pass the Chapter 7 means test.
 
-In a Chapter 13 plan, medical debt is paid from your disposable income after higher-priority debts (mortgage arrears, taxes, child support). In many plans, medical creditors receive pennies on the dollar -- or nothing at all. Whatever is unpaid at the end of the plan is discharged.
+In a Chapter 13 plan, medical debt is paid from your disposable income after higher-priority debts (mortgage arrears, taxes, child support). In many plans, medical creditors receive pennies on the dollar - or nothing at all. Whatever is unpaid at the end of the plan is discharged.
 
 Compare the two chapters: Chapter 7 vs. Chapter 13.
 
@@ -681,13 +683,13 @@ The Automatic Stay Stops Everything
 
 The moment you file bankruptcy, the automatic stay protection in bankruptcy (11 U.S.C. 362) takes effect. This immediately halts:
 
-Collection lawsuits -- any pending lawsuit over medical debt is frozen.
+Collection lawsuits - any pending lawsuit over medical debt is frozen.
 
-Wage garnishment -- if your wages are being garnished for a medical debt judgment, the garnishment stops.
+Wage garnishment - if your wages are being garnished for a medical debt judgment, the garnishment stops.
 
-Collection calls and letters -- all contact from collectors must cease.
+Collection calls and letters - all contact from collectors must cease.
 
-Bank account levies -- a creditor attempting to seize your bank account must stop.
+Bank account levies - a creditor attempting to seize your bank account must stop.
 
 If a collector violates the automatic stay, they can be held in contempt and you may be entitled to damages.
 
@@ -705,7 +707,7 @@ Before You File: Steps to Try First
 
 3. Negotiate directly. Offer 20-40% of the bill as a lump-sum settlement. Many providers accept.
 
-4. Check the statute of limitations. If the debt is time-barred in your state, collectors cannot sue. Do not make a payment -- it may restart the clock.
+4. Check the statute of limitations. If the debt is time-barred in your state, collectors cannot sue. Do not make a payment - it may restart the clock.
 
 5. Dispute credit report errors. If the collection is reported incorrectly, dispute it under the FCRA.
 
@@ -713,27 +715,27 @@ If these steps do not resolve the problem, bankruptcy is the backstop.
 
 Life After Discharge
 
-After your medical debt is discharged, you are free to rebuild. Medical providers cannot deny future treatment because of a prior bankruptcy discharge. Your credit score will recover faster than you expect -- many people reach 680+ within 2-3 years. Credit rebuilding guide.
+After your medical debt is discharged, you are free to rebuild. Medical providers cannot deny future treatment because of a prior bankruptcy discharge. Your credit score will recover faster than you expect - many people reach 680+ within 2-3 years. Credit rebuilding guide.
 
 Explore All Topics
 
-Qualifying for Chapter 7 with Medical Debt -- Means Test and Special Considerations
+Qualifying for Chapter 7 with Medical Debt - Means Test and Special Considerations
 
-Chapter 13 Medical Debt Plan -- Structured Repayment
+Chapter 13 Medical Debt Plan - Structured Repayment
 
-Automatic Stay and Medical Debt -- Immediate Protection
+Automatic Stay and Medical Debt - Immediate Protection
 
-Hospital Lien Avoidance -- Removing Liens in Bankruptcy
+Hospital Lien Avoidance - Removing Liens in Bankruptcy
 
-Medical Debt and Bankruptcy Exemptions -- Protecting Your Assets
+Medical Debt and Bankruptcy Exemptions - Protecting Your Assets
 
-Pre-Filing Strategies -- Before Filing Medical Bankruptcy
+Pre-Filing Strategies - Before Filing Medical Bankruptcy
 
-Alternatives to Bankruptcy -- For Medical Debt
+Alternatives to Bankruptcy - For Medical Debt
 
-After Medical Debt Discharge -- Rebuilding Your Life
+After Medical Debt Discharge - Rebuilding Your Life
 
-State Medical Debt Protections -- Where Consumers Have Extra Rights
+State Medical Debt Protections - Where Consumers Have Extra Rights
 
 Frequently Asked Questions
 
@@ -747,7 +749,7 @@ Chapter 7 is usually faster and eliminates medical debt entirely in 3-4 months. 
 
 Will bankruptcy stop medical debt lawsuits?
 
-Yes. Filing bankruptcy triggers the automatic stay (11 U.S.C. 362), which immediately halts all collection lawsuits, wage garnishments, and collection calls -- including those for medical debt.
+Yes. Filing bankruptcy triggers the automatic stay (11 U.S.C. 362), which immediately halts all collection lawsuits, wage garnishments, and collection calls - including those for medical debt.
 
 Can I discharge medical debt without losing my house?
 
@@ -840,7 +842,7 @@ medicaldebtrights.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -974,6 +976,7 @@ Exemptions by State
 Means Test
 Lien Stripping
 Credit Score
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -987,9 +990,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Medical Debt and Bankruptcy Exemptions -- Protecting Your Assets
+## Medical Debt and Bankruptcy Exemptions - Protecting Your Assets
 Source: https://medicalbillbankruptcy.com/medical-debt-exemptions.html
 
 Medical Debt and Bankruptcy Exemptions
@@ -1115,7 +1120,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Pre-Filing Strategies -- Before Filing Medical Bankruptcy
+## Pre-Filing Strategies - Before Filing Medical Bankruptcy
 Source: https://medicalbillbankruptcy.com/pre-filing-strategies.html
 
 Pre-Filing Strategies
@@ -1245,7 +1250,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Qualifying for Chapter 7 with Medical Debt -- Means Test and Special Considerations
+## Qualifying for Chapter 7 with Medical Debt - Means Test and Special Considerations
 Source: https://medicalbillbankruptcy.com/qualifying-chapter-7.html
 
 Qualifying for Chapter 7 with Medical Debt
@@ -1371,7 +1376,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## State Medical Debt Protections -- Where Consumers Have Extra Rights
+## State Medical Debt Protections - Where Consumers Have Extra Rights
 Source: https://medicalbillbankruptcy.com/state-specific-protections.html
 
 State Medical Debt Protections
@@ -1494,3 +1499,75 @@ Privacy | Terms
 ♥ Sponsor
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Privacy Policy - medicalbillbankruptcy.com
+Source: https://medicalbillbankruptcy.com/privacy.html
+
+medicalbillbankruptcy.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
