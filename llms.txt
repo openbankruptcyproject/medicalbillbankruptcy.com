@@ -1,5 +1,5 @@
 # Medical Bill Bankruptcy - Can You Discharge? [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Can you file bankruptcy for medical bills? Yes. Medical debt is dischargeable in both Chapter 7 and Chapter 13. 2026 guide.
 
@@ -7,17 +7,70 @@
 medicalbillbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- After Medical Debt Discharge - Rebuilding Your Life: https://medicalbillbankruptcy.com/after-discharge.html
-- Alternatives to Bankruptcy - For Medical Debt: https://medicalbillbankruptcy.com/alternatives-to-bankruptcy.html
-- Automatic Stay and Medical Debt - Immediate Protection: https://medicalbillbankruptcy.com/automatic-stay-medical.html
-- Chapter 13 Medical Debt Plan - Structured Repayment: https://medicalbillbankruptcy.com/chapter-13-medical-debt.html
-- Hospital Lien Avoidance - Removing Liens in Bankruptcy: https://medicalbillbankruptcy.com/hospital-lien-avoidance.html
+- After Medical Debt Discharge [2026]: 11 USC 524 Credit-Report Cleanup, Rebuilding, and Provider Future Care: https://medicalbillbankruptcy.com/after-discharge.html
+- Alternatives to Bankruptcy for Medical Debt [2026]: 501(r) Charity Care, No Surprises Act, and Itemized Statement Disputes: https://medicalbillbankruptcy.com/alternatives-to-bankruptcy.html
+- Automatic Stay and Medical Debt [2026]: 11 USC 362(a) Immediate Halt on Hospital Collection and Lawsuits: https://medicalbillbankruptcy.com/automatic-stay-medical.html
+- Chapter 13 Medical Debt Plan [2026]: 11 USC 1322 Structured Repayment While Keeping Property: https://medicalbillbankruptcy.com/chapter-13-medical-debt.html
+- Hospital Lien Avoidance in Bankruptcy [2026]: 11 USC 522(f) Avoidance of Judicial Hospital Liens: https://medicalbillbankruptcy.com/hospital-lien-avoidance.html
 - Medical Bill Bankruptcy - Can You Discharge?: https://medicalbillbankruptcy.com/
-- Medical Debt and Bankruptcy Exemptions - Protecting Your Assets: https://medicalbillbankruptcy.com/medical-debt-exemptions.html
-- Pre-Filing Strategies - Before Filing Medical Bankruptcy: https://medicalbillbankruptcy.com/pre-filing-strategies.html
+- Medical Debt and Bankruptcy Exemptions [2026]: Protecting Assets Under State and 11 USC 522 Federal Schemes: https://medicalbillbankruptcy.com/medical-debt-exemptions.html
+- Pre-Filing Medical Bankruptcy Strategy [2026]: 11 USC 547 Preference Window and 727(a)(2) Asset Transfer Rules: https://medicalbillbankruptcy.com/pre-filing-strategies.html
 - Qualifying for Chapter 7 with Medical Debt - Means Test and Special Considerations: https://medicalbillbankruptcy.com/qualifying-chapter-7.html
-- State Medical Debt Protections - Where Consumers Have Extra Rights: https://medicalbillbankruptcy.com/state-specific-protections.html
+- State Medical Debt Protections [2026]: Charity Care Statutes, Wage-Garnishment Caps, and Reporting Limits: https://medicalbillbankruptcy.com/state-specific-protections.html
 - Privacy Policy: https://medicalbillbankruptcy.com/privacy.html
+- About medicalbillbankruptcy.com: https://medicalbillbankruptcy.com/about.html
+- Alabama Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/alabama.html
+- Alaska Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/alaska.html
+- Arizona Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/arizona.html
+- Arkansas Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/arkansas.html
+- California Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/california.html
+- Colorado Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/colorado.html
+- Connecticut Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/connecticut.html
+- Delaware Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/delaware.html
+- District of Columbia Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/district-of-columbia.html
+- Florida Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/florida.html
+- Georgia Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/georgia.html
+- Hawaii Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/hawaii.html
+- Idaho Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/idaho.html
+- Illinois Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/illinois.html
+- Medical Bill Protection Rules by State: https://medicalbillbankruptcy.com/states/
+- Indiana Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/indiana.html
+- Iowa Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/iowa.html
+- Kansas Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/kansas.html
+- Kentucky Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/kentucky.html
+- Louisiana Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/louisiana.html
+- Maine Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/maine.html
+- Maryland Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/maryland.html
+- Massachusetts Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/massachusetts.html
+- Michigan Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/michigan.html
+- Minnesota Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/minnesota.html
+- Mississippi Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/mississippi.html
+- Missouri Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/missouri.html
+- Montana Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/montana.html
+- Nebraska Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/nebraska.html
+- Nevada Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/nevada.html
+- New Hampshire Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/new-hampshire.html
+- New Jersey Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/new-jersey.html
+- New Mexico Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/new-mexico.html
+- New York Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/new-york.html
+- North Carolina Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/north-carolina.html
+- North Dakota Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/north-dakota.html
+- Ohio Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/ohio.html
+- Oklahoma Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/oklahoma.html
+- Oregon Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/oregon.html
+- Pennsylvania Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/pennsylvania.html
+- Rhode Island Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/rhode-island.html
+- South Carolina Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/south-carolina.html
+- South Dakota Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/south-dakota.html
+- Tennessee Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/tennessee.html
+- Texas Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/texas.html
+- Utah Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/utah.html
+- Vermont Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/vermont.html
+- Virginia Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/virginia.html
+- Washington Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/washington.html
+- West Virginia Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/west-virginia.html
+- Wisconsin Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/wisconsin.html
+- Wyoming Medical Bill Bankruptcy and Credit Reporting: https://medicalbillbankruptcy.com/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
